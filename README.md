@@ -18,7 +18,7 @@ Components Used:
 - 5mm Acrylic Sheet 30cm x 20cm,
 - VPC Card board 5mm,
 
-Contributors
+Contributors:
 
 - [@Devesh1509](https://www.github.com/Devesh1509)
 
