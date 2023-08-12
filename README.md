@@ -22,6 +22,16 @@ Contributors
 
 - [@Devesh1509](https://www.github.com/Devesh1509)
 
+# Hi, I'm Shubham Parmar! 👋
+
+## 🚀 About Me
+
+I'm a final year Computer Science Engineering undergrad @ RGPV Bhopal. Currently Polishing DSA, Problem Solving and Web Development Skills.
+
+## 🛠 Skills
+
+IOT, Java, Javascript, HTML, CSS, Node.js, MongoDB...
+
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishubhamparmar)
